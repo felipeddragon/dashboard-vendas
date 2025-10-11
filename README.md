@@ -21,3 +21,15 @@ Exibir tabela inicial no Colab.
 Calcular o total de unidades vendidas.
 
 Status: ✅ Concluído
+
+📌 Sprint 2 - Limpeza e criação de métricas iniciais
+
+Realizar limpeza retirando dados duplicados e linhas com valores ausentes
+
+Criar uma coluna que mosra a receita total de cada item
+
+Criar um gráfico simples para ilustrar os 5 itens com maior receita
+
+Status: ✅ Concluído
+
+
