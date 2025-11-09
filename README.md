@@ -32,4 +32,10 @@ Criar um gráfico simples para ilustrar os 5 itens com maior receita
 
 Status: ✅ Concluído
 
+📌 Sprint 3 - Dashboard Visual e Análises Finais
 
+Consolidar o projeto criando um dashboard completo, com visualização de todas as análises em uma única tela e gráficos aprimorados.
+
+Dashboard visual completo, integrando todas as informações do dataset.
+
+Status: ✅ Concluído
